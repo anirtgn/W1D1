@@ -1,0 +1,43 @@
+h1 {
+  background-color: #F3A104;
+  border-radius: 15px;
+  padding: 10px;
+  color:white;
+}
+
+header {
+  background-color: #01C4D9;
+  border-radius: 15px;
+  text-align: center;
+}
+
+p {
+  color: white;
+}
+
+section header {
+  padding: 15px 0px ;
+}
+
+h2,h3,h4 {
+  margin: 0;
+  color: white;
+  font-style: bold;
+  font-size: 
+}
+
+.widget {
+  color: navy;
+  border:15px solid white;
+  background-color: #F25C06;
+  text-align: center;
+  padding: 15px 0px;
+}
+
+img {
+  width: 25px;
+}
+
+img:hover {
+  background-color: white;
+}
